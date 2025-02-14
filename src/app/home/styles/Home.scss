@@ -15,18 +15,18 @@
    margin: 0 auto;
 
    .professor-oak {
-     width: 150px;
+     width: 300px;
      max-width: 350px;
      height: auto;
      margin-bottom: 0.5rem;
      object-fit: cover;
      position: relative;
-     top: 500px;
+     top: 400px;
    }
 
    .speech-bubble {
      position: absolute;
-     top: 20px;
+     top: 10px;
      left: 50%;
      transform: translateX(-50%);
      background: linear-gradient(to bottom, #ff0000 40%, #ffffff 50%);
